@@ -5,7 +5,7 @@
 
 # [필수] 이 파일이 어떤 카테고리를 위한 것인지 알려주는 ID입니다.
 # 파일 이름(development)과 똑같이 맞춰주는 것이 좋습니다.
-category: [development] 
+category: development
 
 # [선택] 이 카테고리 페이지에 적용될 고유한 색상 테마입니다.
 # 테마 설명서에 다른 색상 옵션(예: var(--c-themeHueBlue))이 있는지 확인하고 바꿔보세요.
