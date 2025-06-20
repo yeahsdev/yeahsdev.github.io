@@ -3,3 +3,8 @@
   url: category/development.html # 클릭 시 이동할 주소입니다. 1단계에서 만든 development.md와 연결됩니다.
   icon: assets/img/icons/web-api-icon.svg # 아이콘 경로 (README 예시 아이콘을 그대로 사용)
   hue: "var(--c-themeHueBlue)" # 메뉴 아이템의 색상 (카테고리 색상과 통일)
+
+- title: AI # 메뉴에 표시될 이름
+  url: category/ai.html # 클릭 시 이동할 주소입니다. 1단계에서 만든 development.md와 연결됩니다.
+  icon: assets/img/icons/ai-file-icon.svg # 아이콘 경로 (README 예시 아이콘을 그대로 사용)
+  hue: "var(--c-themeHueRed)" # 메뉴 아이템의 색상 (카테고리 색상과 통일)
