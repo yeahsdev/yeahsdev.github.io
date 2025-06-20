@@ -1,18 +1,30 @@
-title: the Simplex theme
-logo_img: /assets/img/icons/golasblog_logo.svg
-favicon: /assets/favicon.ico
-description: description
-global_tags: jekyll theme simplex golasblog responsive html5
-copyright: © Golasowski 2021
+# ======================================================= #
+# 필수 추가 항목 (CSS 깨짐 방지)
+# ======================================================= #
+url: "https://yeahsdev.github.io"
+baseurl: ""
 
+# ======================================================= #
+# 내 블로그 정보로 수정할 항목
+# ======================================================= #
+title: YEAH! 개발 블로그
+logo_img: /assets/img/icons/golasblog_logo.svg # 로고를 바꿨다면 이 경로도 수정
+favicon: /assets/favicon.ico                  # 파비콘을 바꿨다면 이 경로도 수정
+description: "AI와 웹 개발에 대한 이야기를 나눕니다."
+global_tags: 개발 블로그, 파이썬, 자바스크립트, 알고리즘, AI, Architecture
+copyright: © yeseol 2025 # 
+
+# ======================================================= #
+# 테마 기본 설정 (수정 필요 없음)
+# ======================================================= #
 sass:
-    style: compressed
+  style: compressed
 
 collections:
-    category:
-        output: true
-    authors:
-        output: false
+  category:
+    output: true
+  authors:
+    output: false
 
 defaults:
   -
