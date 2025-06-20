@@ -206,13 +206,10 @@ These colors are CSS variables, usage: `var(--var-name)`
 ## Add-ons
 Add-ons are distributed as Jekyll plugins. Just download any desired `.rb` file from the repository `_plugin` folder and put it in your `_plugin` folder.
 
-### Buttons (button.rb)
-Adds a tag to simplify insertion of buttons:
-```
-{% button red|https://www.example.com/|/assets/img/icons/cog.svg %}
-Download binary
-{% endbutton %}
-```
+<a href="https://www.example.com/" class="button" style="background-color: red;">
+    <img src="/assets/img/icons/cog.svg" alt="" style="vertical-align: middle; margin-right: 5px;">
+    Download binary
+</a>
 
 ## 🤝 Contributing
  
