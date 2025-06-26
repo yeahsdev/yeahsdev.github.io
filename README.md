@@ -25,6 +25,8 @@
     * 최근 포스트: [RAG Architecture](https://yeahsdev.github.io/2025/06/20/ai-post.html)
 * **💻 개발 일지:** 파이썬, 자바스크립트 등 저의 개발 삽질기(?)를 기록합니다. 문제 해결 과정이나 유용한 팁을 공유합니다.
     * 최근 포스트: [First Posting](https://yeahsdev.github.io/2025/06/20/my-first-dev-post.html)
+* **💻 Alogorithm Study:** 알고리즘 공부 기록입니다. 문제 해결 과정을 공유합니다.
+    * 최근 포스트: [First Posting](https://yeahsdev.github.io/2025/06/20/my-first-dev-post.html)
 
 <br>
 
